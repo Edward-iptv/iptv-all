@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="NPO1.nl" group-title="Nederland",Nl: NPO 1
+#EXTINF:0 tvg-id="ext" group-title="NL | Basis 4K+",NL | NPO1 FHD+
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17518
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Extra",Nl: NPO 1 Extra
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11054
@@ -115,7 +115,7 @@ http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67526
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17500
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Docu",Nl: Fashion TV FHD
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101780
-#EXTINF:0 tvg-id="24kitchen.nl" group-title="Nederland-Docu",Nl: 24 Kitchen HD
+#EXTINF:0 tvg-id="ext" group-title="NL | Documentarie 4K+",NL | Nat Geo FHD
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17556
 #EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: Ons HD
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17514
