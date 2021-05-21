@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:0 tvg-id="NPO1.nl" group-title="Nederland",Nl: NPO 1
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17518
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Extra",Nl: NPO 1 Extra
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11054
+#EXTINF:0 tvg-id="NPO2.nl" group-title="Nederland",Nl: NPO 2 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17517
+#EXTINF:0 tvg-id="NPO3.nl" group-title="Nederland",Nl: NPO 3 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17516
+#EXTINF:0 tvg-id="NPOnieuws.nl" group-title="Nederland-Extra",Nl: NPO Nieuws
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17515
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Extra",Nl: NPO Politiek HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/31026
+#EXTINF:0 tvg-id="ZappelinFamilie24.nl" group-title="Nederland-Extra",Nl: NPO Zapp Xtra
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11055
+#EXTINF:0 tvg-id="RTL4.nl" group-title="Nederland",Nl: RTL 4 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17513
+#EXTINF:0 tvg-id="RTL5.nl" group-title="Nederland",Nl: RTL 5 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17512
+#EXTINF:0 tvg-id="RTL7.nl" group-title="Nederland",Nl: RTL 7 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17511
+#EXTINF:0 tvg-id="RTL7.nl" group-title="Nederland",Nl: RTL 7 FHD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/13535
+#EXTINF:0 tvg-id="RTL8.nl" group-title="Nederland",Nl: RTL 8 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17510
+#EXTINF:0 tvg-id="RTLZ.nl" group-title="Nederland",Nl: RTL Z HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17506
+#EXTINF:0 tvg-id="SBS6.nl" group-title="Nederland",Nl: SBS 6 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17504
+#EXTINF:0 tvg-id="SBS9.nl" group-title="Nederland",Nl: SBS 9 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17503
+#EXTINF:0 tvg-id="NET5.nl" group-title="Nederland",Nl: Net 5 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17523
+#EXTINF:0 tvg-id="DisneyChannel.nl" group-title="Nederland-Kids",Nl: Disney Channel HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11065
+#EXTINF:0 tvg-id="ComedyCentral.nl" group-title="Nederland",Nl: Comedy Central HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17549
+#EXTINF:0 tvg-id="ComedyCentral.nl" group-title="Nederland",Nl: Comedy Central Extra HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17550
+#EXTINF:0 tvg-id="Spike.nl" group-title="Nederland",Nl: Spike HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67523
+#EXTINF:0 tvg-id="FOX.nl" group-title="Nederland",Nl: Fox HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17535
+
+#EXTINF:0 tvg-id="Spike.nl" group-title="Nederland-Kids",Nl: Nickelodeon HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17501
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Kids",Nl: NickToon
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11063
+#EXTINF:0 tvg-id="NickJrInt.nl" group-title="Nederland-Kids",Nl: NickToons HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17520
+#EXTINF:0 tvg-id="NickJrInt.nl" group-title="Nederland-Kids",Nl: Nick Jr. HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17522
+#EXTINF:0 tvg-id="Ketnet.be" group-title="Nederland-Kids",Nl: Ketnet HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/9548
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Kids",Nl: Cartoon Network HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17551
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Kids",Nl: Boomerang HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17553
+#EXTINF:0 tvg-id="BabyTV.nl" group-title="Nederland-Kids",Nl: Baby TV
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17554
+#EXTINF:0 tvg-id="VeronicaDisneyXD.nl" group-title="Nederland-Kids",Nl: Disney XD HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17495
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Kids",Nl: Pebble TV HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67530
+#EXTINF:0 tvg-id="RTLTelekids.nl" group-title="Nederland-Kids",Nl: RTL Telekids HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17507
+
+#EXTINF:0 tvg-id="192tv.nl" group-title="Nederland-Muziek",Nl: 192TV
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/9584
+#EXTINF:0 tvg-id="mtv.nl" group-title="Nederland-Muziek",Nl: MTV HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17526
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: TV Oranje
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17498
+#EXTINF:0 tvg-id="100NLTV.nl" group-title="Nederland-Muziek",Nl: 100% NL TV
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17557
+#EXTINF:0 tvg-id="SLAM!TV.nl" group-title="Nederland-Muziek",Nl: Slam!TV
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17502
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: MTV Live HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67524
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: MTV Music 24 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67519
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: MTV Brand New HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101778
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: VH1 Classic HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67512
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: Xite HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67525
+#EXTINF:0 tvg-id="NickMusic.nl" group-title="Nederland-Muziek",Nl: Nick Music HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17521
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Regio",Nl: TV 538 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67532
+
+#EXTINF:0 tvg-id="Film1Action.nl" group-title="Nederland-Film",Nl: Film1 Action HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/25560
+#EXTINF:0 tvg-id="Film1Series.nl" group-title="Nederland-Film",Nl: Film1 Drama
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17539
+#EXTINF:0 tvg-id="Film1Premiere.nl" group-title="Nederland-Film",Nl: Film1 Premiere HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17537
+#EXTINF:0 tvg-id="Film1Family.nl" group-title="Nederland-Film",Nl: Film1 Family
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17538
+
+#EXTINF:0 tvg-id="RTLLounge.nl" group-title="Nederland",Nl: RTL Lounge HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17508
+#EXTINF:0 tvg-id="RTLCrime.nl" group-title="Nederland",Nl: RTL Crime HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17509
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Docu",Nl: Crime & Investigation HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/9576
+#EXTINF:0 tvg-id="CrimeAndInvestigation.nl" group-title="Nederland-Docu",Nl: Crime & Investigation HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17548
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: E! Entertainment HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17543
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: BBC Entertainment HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67526
+#EXTINF:0 tvg-id="TLC.nl" group-title="Nederland",Nl: TLC HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17500
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Docu",Nl: Fashion TV FHD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101780
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="Nederland-Docu",Nl: 24 Kitchen HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17556
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: Ons HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17514
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: OUT TV HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67511
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: Family 7 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67533
+
+#EXTINF:0 tvg-id="NGCziggo.nl" group-title="Nederland-Docu",Nl: National Geographic HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17524
+#EXTINF:0 tvg-id="NGCWild.be" group-title="Nederland-Docu",Nl: Nat Geo Wild HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17525
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Docu",Nl: Love Nature HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67611
+#EXTINF:0 tvg-id="AnimalPlanet.nl" group-title="Nederland-Docu",Nl: Animal Planet HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17555
+#EXTINF:0 tvg-id="DiscoveryScience.be" group-title="Nederland-Docu",Nl: Discovery Channel HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17546
+#EXTINF:0 tvg-id="DiscoveryScience.be" group-title="Nederland-Docu",Nl: Discovery Science HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17527
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Docu",Nl: Investigation Discovery ID HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/31012
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Docu",Nl: History Channel HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17528
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Docu",Nl: Horse & Country HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67529
+
+#EXTINF:0 tvg-id="ESPN.nl" group-title="Nederland-Sport",Nl: Fox Sports 1 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33464
+#EXTINF:0 tvg-id="ESPN2.nl" group-title="Nederland-Sport",Nl:  Fox Sports 2 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33465
+#EXTINF:0 tvg-id="ESPN3.nl" group-title="Nederland-Sport",Nl:  Fox Sports 3 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33466
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Nederland-Sport",Nl:  Fox Sports 4 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33467
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="Nederland-Sport",Nl:  Fox Sports 5 Hd
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33468
+#EXTINF:0 tvg-id="ESPN6.nl" group-title="Nederland-Sport",Nl:  Fox Sports 6 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33469
+#EXTINF:0 tvg-id="ZiggoSport.nl" group-title="Nederland-Sport",Nl: Ziggo Sport HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33470
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",Nl: Ziggo Sport Extra HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33472
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",Nl: Ziggo Sport Extra 1 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33471
+#EXTINF:0 tvg-id="ZiggoSportVoetbal.nl" group-title="Nederland-Sport",Nl: Ziggo Sport Voetbal HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33476
+#EXTINF:0 tvg-id="ZiggoSportRacing.nl" group-title="Nederland-Sport",Nl: Ziggo Sport Racing HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33474
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="Nederland-Sport",Nl: Ziggo Sport Golf HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33473
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",Nl: Ziggo Sport Docu FHD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67610
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="Nederland-Sport",Nl: Ziggo Sport Select HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33475
+#EXTINF:0 tvg-id="ExtremeSports.nl" group-title="Nederland-Sport",Nl: Extreme Sports
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33590
+#EXTINF:0 tvg-id="Eurosport1.nl" group-title="Nederland-Sport",Nl: EuroSport 1 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33462
+#EXTINF:0 tvg-id="Eurosport2.nl" group-title="Nederland-Sport",Nl: EuroSport 2 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/33463
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",Nl: UFC Network HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67528
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",Nl: ESPN 1 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101785
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",Nl: ESPN 2 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101786
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",Nl: ESPN 3 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101787
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",Nl: ESPN 4 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101788
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",Nl: ESPN 5 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101789
+
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Regio",Nl: At 5 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101782
+#EXTINF:0 tvg-id="RTVUtrecht.nl" group-title="Nederland-Regio",Nl: RTV Utrecht HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17505
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Regio",Nl: L1murg HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67531
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Regio",Nl: RTV Noord HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67515
+#EXTINF:0 tvg-id="TVRijnmond.nl" group-title="Nederland-Regio",Nl: TV Rijnmond
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17497
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Regio",Nl: TV Gelderland HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67520
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Regio",Nl: TV Oost HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17499
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Regio",Nl: TV West
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17496
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Regio",Nl: RTV Drenthe HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67516
+#EXTINF:0 tvg-id="OmroepBrabant.nl" group-title="Nederland-Regio",Nl: Omroep Brabant
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11019
+#EXTINF:0 tvg-id="OmroepZeeland.nl" group-title="Nederland-Regio",Nl: Omroep Zeeland
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11017
+
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: Ziggo TV HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67505
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: Salto 1
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11043
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: CBS Reality HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67514
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: RTV 7 HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67508
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: Stingray Djazz HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101779
+#EXTINF:0 tvg-id="ext" group-title="Nederlands",Nl: BBC First HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11066
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: Djazz tv
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17544
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: Shorts TV HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67509
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: Een HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67517
+#EXTINF:0 tvg-id="Canvas.be" group-title="Nederland",Nl: Canvas HD
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67518
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: MyZen TV
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67527
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: Stingray iConcerts
+http://new-pro.tv:8080/live:diplomatmobstar/restream494862/9551
