@@ -223,7 +223,7 @@ http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67514
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67508
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: Stingray Djazz HD
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/101779
-#EXTINF:0 tvg-id="ext" group-title="Nederlands",Nl: BBC First HD
+#EXTINF:0 tvg-id="ext" group-title="Nederland",Nl: BBC First HD
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/11066
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: Djazz tv
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/17544
