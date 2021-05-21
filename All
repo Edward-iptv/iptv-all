@@ -238,7 +238,454 @@ http://new-pro.tv:8080/live:diplomatmobstar/restream494862/67527
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Muziek",Nl: Stingray iConcerts
 http://new-pro.tv:8080/live:diplomatmobstar/restream494862/9551
 
-
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="|UK| ENGLAND",UK: BBC ONE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3824
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="|UK| ENGLAND",UK: BBC ONE *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6180
+#EXTINF:0 tvg-id="BBC2.uk" group-title="|UK| ENGLAND",UK: BBC TWO
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3823
+#EXTINF:0 tvg-id="BBC2.uk" group-title="|UK| ENGLAND",UK: BBC TWO *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3821
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BBC THREE/CBeebies
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3765
+#EXTINF:0 tvg-id="BBC4.uk" group-title="|UK| ENGLAND",UK: BBC FOUR
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7660
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="|UK| ENGLAND",UK: ITV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3827
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="|UK| ENGLAND",UK: ITV *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3831
+#EXTINF:0 tvg-id="ITV2.uk" group-title="|UK| ENGLAND",UK: ITV 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3830
+#EXTINF:0 tvg-id="ITV2.uk" group-title="|UK| ENGLAND",UK: ITV 2 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6204
+#EXTINF:0 tvg-id="ITV3.uk" group-title="|UK| ENGLAND",UK: ITV 3
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3829
+#EXTINF:0 tvg-id="ITV3.uk" group-title="|UK| ENGLAND",UK: ITV 3 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7589
+#EXTINF:0 tvg-id="ITV4.uk" group-title="|UK| ENGLAND",UK: ITV 4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3828
+#EXTINF:0 tvg-id="ITV4.uk" group-title="|UK| ENGLAND",UK: ITV 4 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/28400
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="|UK| ENGLAND",UK: ITV Be.
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3826
+#EXTINF:0 tvg-id="CITV.uk" group-title="|UK| ENGLAND",UK: CITV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7290
+#EXTINF:0 tvg-id="Channel4.uk" group-title="|UK| ENGLAND",UK: CHANNEL 4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6203
+#EXTINF:0 tvg-id="Channel4.uk" group-title="|UK| ENGLAND",UK: CHANNEL 4 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3816
+#EXTINF:0 tvg-id="Channel5.uk" group-title="|UK| ENGLAND",UK: CHANNEL 5
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3817
+#EXTINF:0 tvg-id="Channel5.uk" group-title="|UK| ENGLAND",UK: CHANNEL 5 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7323
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="|UK| ENGLAND",UK: BBC NEWS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3825
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="|UK| ENGLAND",UK: BBC NEWS *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6202
+#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="|UK| ENGLAND",UK: BBC WORLD NEWS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7633
+#EXTINF:0 tvg-id="Euronews.uk" group-title="|UK| ENGLAND",UK: EURONEWS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/34734
+#EXTINF:0 tvg-id="FOXNews.uk" group-title="|UK| ENGLAND",UK: FOX NEWS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/19044
+#EXTINF:0 tvg-id="CNN.nws" group-title="|UK| ENGLAND",UK: CNN
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3820
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: AL JAZEERA NEWS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/35827
+#EXTINF:0 tvg-id="LondonLive.uk" group-title="|UK| ENGLAND",UK: LONDON LIVE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56542
+#EXTINF:0 tvg-id="BBCFirst.uk" group-title="|UK| ENGLAND",UK: BBC FIRST
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9682
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BBC SCOTLAND
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/31224
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BBC ONE (SCOTLAND)
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7587
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BBC TWO (SCOTLAND)
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7635
+#EXTINF:0 tvg-id="BBCAlba.uk" group-title="|UK| ENGLAND",UK: BBC ALBA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56507
+#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="|UK| ENGLAND",UK: BBC ONE NORTHERN IRELAND
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56504
+#EXTINF:0 tvg-id="BBC1Wales.uk" group-title="|UK| ENGLAND",UK: BBC ONE WALES
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56502
+#EXTINF:0 tvg-id="BBCParliament.uk" group-title="|UK| ENGLAND",UK: BBC PARLIAMENT
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56506
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BBC TWO NORTHERN IRELAND
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56505
+#EXTINF:0 tvg-id="Eden.uk" group-title="|UK| ENGLAND",UK: EDEN
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3810
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="|UK| ENGLAND",UK: SONY CHANNEL
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/29183
+#EXTINF:0 tvg-id="5star.uk" group-title="|UK| ENGLAND",UK: 5 STAR
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3764
+#EXTINF:0 tvg-id="FiveUSA.uk" group-title="|UK| ENGLAND",UK: 5 USA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/29182
+#EXTINF:0 tvg-id="Dave.uk" group-title="|UK| ENGLAND",UK: DAVE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3807
+#EXTINF:0 tvg-id="More4.uk" group-title="|UK| ENGLAND",UK: MORE 4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3818
+#EXTINF:0 tvg-id="Film4.uk" group-title="|UK| ENGLAND",UK: FILM 4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3791
+#EXTINF:0 tvg-id="E4.uk" group-title="|UK| ENGLAND",UK: E4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3770
+#EXTINF:0 tvg-id="E.uk" group-title="|UK| ENGLAND",UK: E!
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6196
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="|UK| ENGLAND",UK: COMEDY CENTRAL
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3815
+#EXTINF:0 tvg-id="PickTV.uk" group-title="|UK| ENGLAND",UK: PICK
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3812
+#EXTINF:0 tvg-id="Alibi.uk" group-title="|UK| ENGLAND",UK: ALIBI
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/18209
+#EXTINF:0 tvg-id="FX.uk" group-title="|UK| ENGLAND",UK: FOX
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3738
+#EXTINF:0 tvg-id="GOLD.uk" group-title="|UK| ENGLAND",UK: GOLD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3809
+#EXTINF:0 tvg-id="Really.uk" group-title="|UK| ENGLAND",UK: REALLY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/33970
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="|UK| ENGLAND",UK: CBS DRAMA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3769
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="|UK| ENGLAND",UK: CBS REALITY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3767
+#EXTINF:0 tvg-id="Universal.uk" group-title="|UK| ENGLAND",UK: UNIVERSAL CHANNEL
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/19911
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="|UK| ENGLAND",UK: SYFY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6207
+#EXTINF:0 tvg-id="AMC.uk" group-title="|UK| ENGLAND",UK: AMC
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7511
+#EXTINF:0 tvg-id="SonyCrimeChannel2.uk" group-title="|UK| ENGLAND",UK: TRUE CRIME
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3736
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: NBC SPORTS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/8006
+#EXTINF:0 tvg-id="TCM.uk" group-title="|UK| ENGLAND",UK: TCM
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3806
+#EXTINF:0 tvg-id="Quest.uk" group-title="|UK| ENGLAND",UK: QUEST
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7591
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="|UK| ENGLAND",UK: YESTERDAY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7592
+#EXTINF:0 tvg-id="Drama.uk" group-title="|UK| ENGLAND",UK: DRAMA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7593
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: CHALLANGE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9611
+#EXTINF:0 tvg-id="SkyLiving.uk" group-title="|UK| ENGLAND",UK: LIVING UK
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9681
+#EXTINF:0 tvg-id="Investigation.uk" group-title="|UK| ENGLAND",UK: INVESTIGATION DISCOVERY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9612
+#EXTINF:0 tvg-id="SonyMovies.uk" group-title="|UK| ENGLAND",UK: SONY MOVIES
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9616
+#EXTINF:0 tvg-id="4Seven.uk" group-title="|UK| ENGLAND",UK: 4SEVEN
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9607
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BLOOMBERG NEWS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3766
+#EXTINF:0 tvg-id="Home.uk" group-title="|UK| ENGLAND",UK: HOME
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3794
+#EXTINF:0 tvg-id="GoodFood.uk" group-title="|UK| ENGLAND",UK: GOOD FOOD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3772
+#EXTINF:0 tvg-id="BET.uk" group-title="|UK| ENGLAND",UK: BET
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9609
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BBC ENTERTAINMENT
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7759
+#EXTINF:0 tvg-id="TravelChannel.uk" group-title="|UK| ENGLAND",UK: TRAVEL CHANNEL
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/14368
+#EXTINF:0 tvg-id="History.uk" group-title="|UK| ENGLAND",UK: HISTORY CHANNEL
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/25704
+#EXTINF:0 tvg-id="H2.uk" group-title="|UK| ENGLAND",UK: H2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3800
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="|UK| ENGLAND",UK: FOOD NETWORK
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3811
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="|UK| ENGLAND",UK: CRIME AND INVESTIGATION
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3737
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="|UK| ENGLAND",UK: ANIMAL PLANET
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3798
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="|UK| ENGLAND",UK: NAT GEO
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3801
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="|UK| ENGLAND",UK: NAT GEO WILD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3802
+#EXTINF:0 tvg-id="Discovery.uk" group-title="|UK| ENGLAND",UK: DISCOVERY CHANNEL
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3797
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="|UK| ENGLAND",UK: DISCOVERY SCIENCE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3796
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="|UK| ENGLAND",UK: DISCOVERY HISTORY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3795
+#EXTINF:0 tvg-id="DiscoveryShed.uk" group-title="|UK| ENGLAND",UK: DISCOVERY SHED
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9613
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: DTX
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/10037
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: FINE LIVING
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9614
+#EXTINF:0 tvg-id="UTVIreland.uk" group-title="|UK| ENGLAND",UK: UTV IRELAND
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56597
+#EXTINF:0 tvg-id="VirginMediaTwo.ie" group-title="|UK| ENGLAND",UK: 3E
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56516
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: 5 SELECT
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56535
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="|UK| ENGLAND",UK: BLAZE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56519
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="|UK| ENGLAND",UK: CBS ACTION
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56523
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: CBS JUSTICE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56524
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: CLUB MTV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56551
+#EXTINF:0 tvg-id="ClublandTV.uk" group-title="|UK| ENGLAND",UK: CLUBLAND TV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56526
+#EXTINF:0 tvg-id="CNBC.uk" group-title="|UK| ENGLAND",UK: CNBC NEWS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56528
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="|UK| ENGLAND",UK: COMEDY CENTRAL EXTRA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56529
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: DMAX HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56531
+#EXTINF:0 tvg-id="5star.uk" group-title="|UK| ENGLAND",UK: FIVE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56532
+#EXTINF:0 tvg-id="France24.fr" group-title="|UK| ENGLAND",UK: FRANCE 24
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56533
+#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="|UK| ENGLAND",UK: HORROR CHANNEL
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56537
+#EXTINF:0 tvg-id="Kerrang.uk" group-title="|UK| ENGLAND",UK: KERRANG TV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56540
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: LIFE TIME HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56541
+#EXTINF:0 tvg-id="Magic.uk" group-title="|UK| ENGLAND",UK: MAGIC TV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56543
+#EXTINF:0 tvg-id="Movies4Men.uk" group-title="|UK| ENGLAND",UK: MOVIES4MEN
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56545
+#EXTINF:0 tvg-id="Nollywood.uk" group-title="|UK| ENGLAND",UK: NOLLYWOOD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56559
+#EXTINF:0 tvg-id="PBS.uk" group-title="|UK| ENGLAND",UK: PBS AMERICA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56562
+#EXTINF:0 tvg-id="QuestRed.uk" group-title="|UK| ENGLAND",UK: QUEST RED
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56563
+#EXTINF:0 tvg-id="RealLives.uk" group-title="|UK| ENGLAND",UK: REAL LIVES
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56564
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: ROK TV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56565
+#EXTINF:0 tvg-id="TrueEntertainment.uk" group-title="|UK| ENGLAND",UK: TRUE ENT
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56590
+#EXTINF:0 tvg-id="TrueMovies.uk" group-title="|UK| ENGLAND",UK: TRUE MOVIES 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56591
+#EXTINF:0 tvg-id="VICELAND.uk" group-title="|UK| ENGLAND",UK: VICELAND HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56599
+#EXTINF:0 tvg-id="S4C.uk" group-title="|UK| ENGLAND",UK: S4C
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56569
+#EXTINF:0 tvg-id="STV.uk" group-title="|UK| ENGLAND",UK: STV HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56583
+#EXTINF:0 tvg-id="TLC.uk" group-title="|UK| ENGLAND",UK: TLC
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56587
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: TV3 IR HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56593
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: TV5
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56594
+#EXTINF:0 tvg-id="W.uk" group-title="|UK| ENGLAND",UK: W HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56601
+#EXTINF:0 tvg-id="W.uk" group-title="|UK| ENGLAND",UK: WATCH
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56602
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: VH 1 CLASSIC
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/8706
+#EXTINF:0 tvg-id="MTV.uk" group-title="|UK| ENGLAND",UK: MTV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56548
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="|UK| ENGLAND",UK: MTV BASE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56549
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="|UK| ENGLAND",UK: MTV CLASSIC
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56550
+#EXTINF:0 tvg-id="MTV.uk" group-title="|UK| ENGLAND",UK: MTV HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56547
+#EXTINF:0 tvg-id="MTVHits.uk" group-title="|UK| ENGLAND",UK: MTV HITS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56552
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="|UK| ENGLAND",UK: MTV LIVE FHD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56546
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="|UK| ENGLAND",UK: MTV MUSIC
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56555
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: MTV OMG
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56554
+#EXTINF:0 tvg-id="MTVRocks.uk" group-title="|UK| ENGLAND",UK: MTV ROCKS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56556
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: NOW 90S
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56561
+#EXTINF:0 tvg-id="4Music.uk" group-title="|UK| ENGLAND",UK: 4MUSIC
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56517
+#EXTINF:0 tvg-id="BoxHits.uk" group-title="|UK| ENGLAND",UK: BOX HITS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56527
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="|UK| ENGLAND",UK: VH1 CLASSIC
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56598
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: POP (CHILDREN)
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/8707
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="|UK| ENGLAND",UK: BABY TV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6182
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="|UK| ENGLAND",UK: CARTOONITO
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56522
+#EXTINF:0 tvg-id="Disney.uk" group-title="|UK| ENGLAND",UK: DISNEY CHANNEL
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/21469
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="|UK| ENGLAND",UK: DISNEY JUNIOR
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/21986
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="|UK| ENGLAND",UK: DISNEY XD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3805
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="|UK| ENGLAND",UK: NICKELODEON
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3804
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="|UK| ENGLAND",UK: NICK JR
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3803
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="|UK| ENGLAND",UK: BOOMERANG
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56520
+#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="|UK| ENGLAND",UK: NICK JNR TOO
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56557
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="|UK| ENGLAND",UK: NICK TOONS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56558
+#EXTINF:0 tvg-id="tinypop.uk" group-title="|UK| ENGLAND",UK: TINY POP
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56586
+#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="|UK| ENGLAND",UK: RTE NEWS NOW
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56567
+#EXTINF:0 tvg-id="RTE1.ie" group-title="|UK| ENGLAND",UK: RTE ONE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3790
+#EXTINF:0 tvg-id="RTE2.ie" group-title="|UK| ENGLAND",UK: RTE TWO
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3789
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y NEWS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3814
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y NEWS *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7688
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3793
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y  2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3792
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y ATLANTIC
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3788
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y LIVING
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3776
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y DRAMA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3773
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y ARTS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3774
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y MOVIES PREMIER
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3786
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y MOVIES ACTION & ADVENTURE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3778
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y MOVIES THRILLER
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3779
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y MOVIES COMEDY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3784
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y MOVIES SCI-FI & HORROR
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3782
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y MOVIES DRAMA & ROMANCE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3775
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y MOVIES DISNEY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3780
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y MOVIES FAMILY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3785
+#EXTINF:0 tvg-id="SkyBrits.uk" group-title="|UK| ENGLAND",UK: SKY MOVIES MODERN-GEANT
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56574
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="|UK| ENGLAND",UK: SKY MOVIES SELECT
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56577
+#EXTINF:0 tvg-id="SkyShowcase.uk" group-title="|UK| ENGLAND",UK: SKY MOVIES SHOWCASE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56578
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: WILLOW CRICKET
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/34672
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="|UK| ENGLAND",UK: EUROSPORT 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3746
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="|UK| ENGLAND",UK: EUROSPORT 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3745
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS NEWS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3757
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS NEWS *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3748
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS MAIN EVENT
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3752
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS MAIN EVENT *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/34570
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS PREMIER LEAGUE
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3754
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS PREMIER LEAGUE *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7342
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS ACTION
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3755
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS ARENA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6185
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS GOLF
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3751
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS MIX
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6201
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS CRICKET (HD)
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/7632
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS CRICKET *SD*
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6186
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS F1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3750
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS F1 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6208
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS F1 **
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3762
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS FOOTBALL
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3753
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS RACING HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3742
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: SKY SPORT NHL HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56508
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: SKY WITNESS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56580
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="|UK| ENGLAND",UK: BT SPORT / ESPN
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3747
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="|UK| ENGLAND",UK: BT SPORT 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3761
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="|UK| ENGLAND",UK: BT SPORT 1 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6198
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="|UK| ENGLAND",UK: BT SPORT 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3760
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="|UK| ENGLAND",UK: BT SPORT 2 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6199
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="|UK| ENGLAND",UK: BT SPORT 3
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3759
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="|UK| ENGLAND",UK: BT SPORT 3 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6197
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56509
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56511
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56512
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA 3
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56513
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA 4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56514
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: PREMIER SPORTS 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9293
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="|UK| ENGLAND",UK: EIR SPORT 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3758
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="|UK| ENGLAND",UK: EIR SPORT 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56515
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="|UK| ENGLAND",UK: FREE SPORTS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56534
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="|UK| ENGLAND",UK: RACING UK
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3744
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="|UK| ENGLAND",UK: RACING UK HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30593
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS RACING
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56584
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="|UK| ENGLAND",UK: BOX NATION
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/35738
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: FIGHTBOX
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/35737
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: SUPERSPORT 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/44689
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: SUPERSPORT 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/45190
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: SUPERSPORT 3
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/45191
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: SUPERSPORT 4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/45192
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: SUPERSPORT 5
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/45193
+#EXTINF:0 tvg-id="?TV.uk" group-title="|UK| ENGLAND",UK: MOTORS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56544
+#EXTINF:0 tvg-id="HorseAndCountry.uk" group-title="|UK| ENGLAND",UK: HORSE AND COUNTRY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56538
+#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="|UK| ENGLAND",UK: LFCTV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3741
+#EXTINF:0 tvg-id="MUTV.uk" group-title="|UK| ENGLAND",UK: MUTV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3739
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: BT SPORT BOX OFFICE PPV (Live Events Only)
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/12559
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: UFC FIGHT PASS PPV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/36217
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: SKY/ITV BOX OFFICE (MATCH TIME)
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3813
+#EXTINF:0 tvg-id="ext" group-title="|UK| ENGLAND",UK: ITV BOX OFFICE PPV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56539
 
 
 
